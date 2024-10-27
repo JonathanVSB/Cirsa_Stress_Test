@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cirsa_Stress_Test_Progam
+build_property.ProjectDir = C:\Users\jonad\Desktop\Cirsa Stress Test Progam\cirsa-stress-testing-program\Cirsa Stress Test Program\Cirsa Stress Test Progam\Cirsa Stress Test Progam\
